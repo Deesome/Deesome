@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deesome
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 In Progress
 - 💞️ I’m looking to collaborate on dyanamic websites and App development
 - 📫 How to reach me ...Deepak160895@gmail.com
 
