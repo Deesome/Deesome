@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Deesome
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Deepak Yadav
+- 👀 Full Stack Web Development
 - 🌱 In Progress
-- 💞️ I’m looking to collaborate on dyanamic websites and App development
+- 💞️ I’m looking to collaborate on dyanamic websites development
 - 📫 How to reach me ...Deepak160895@gmail.com
 
 <!---
